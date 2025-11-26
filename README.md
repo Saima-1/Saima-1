@@ -30,6 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saima-1&show_icons=true&locale=en" alt="saima-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saima-1&" alt="saima-1" /></p>
-
-<img src"https://github.com/marketplace/actions/snake-game-generator-from-github-contributions"/>
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
 
